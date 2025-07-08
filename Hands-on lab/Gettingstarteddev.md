@@ -1,6 +1,6 @@
 # Microsoft Dev Box for Developers
 
-### Overall Estimated Duration: 120 Minutes
+### Overall Estimated Duration: 120 Minutesbn v
 
 ## Overview
 
